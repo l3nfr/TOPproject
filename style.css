@@ -129,3 +129,27 @@
     padding-top: 10px;
     text-align: center;
 }
+
+.textunder {
+    display: flex;
+    justify-content: center;
+}
+
+.firstparaunder {
+    color: grey;
+    padding-top: 7px;
+}
+
+.secondparaunder {
+    color: grey;
+    padding-top: 7px;
+    padding-left: 76px;
+    padding-right: 64px;
+}
+
+
+.thirdparaunder {
+    color: grey;
+    padding-top: 7px;
+}
+
