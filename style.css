@@ -75,3 +75,57 @@
     border-radius: 7px;
     font-weight: bold;
 }
+
+.middleparth {
+    color: #1f2937;
+    font-weight: 900;
+    text-align: center;
+    margin: 35px;
+    font-size: 36px;
+}
+
+.middleimages {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+.middleurlimage {
+    border-radius: 25px;
+    border: 4px solid #3882f6;
+}
+
+.middlehttpimage {
+    border-radius: 25px;
+    border: 4px solid #3882f6;
+}
+
+.middlehtmlimage {
+    border-radius: 25px;
+    border: 4px solid #3882f6;
+}
+
+.tunderimages {
+    display: flex;
+    justify-content: center;
+}
+
+.urlheading {
+    color: grey;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.httpheading {
+    color: grey;
+    padding-top: 10px;
+    padding-left: 320px;
+    padding-right: 310px;
+    text-align: center;
+}
+
+.htmlheading {
+    color: grey;
+    padding-top: 10px;
+    text-align: center;
+}
