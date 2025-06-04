@@ -246,3 +246,14 @@
     text-align: center;
     font-weight: bold;
 }
+
+.last {
+    display: flex;
+    background-color: #1f2937;
+    justify-content: center;
+    margin-top: 120px;
+}
+
+.credits {
+    padding: 40px;
+}
